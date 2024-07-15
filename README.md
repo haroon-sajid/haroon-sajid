@@ -53,3 +53,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroon-sajid&show_icons=true&locale=en" alt="haroon-sajid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-sajid&" alt="haroon-sajid" /></p>
+
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
