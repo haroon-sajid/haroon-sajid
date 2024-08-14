@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haroon Sajid</h1>
 <h3 align="center">I'm Data Analyst & Data Science Enthusiast from Pakistan</h3>
 
-<table>
   <tr>
-    <td>
-      <img src="coding.gif" align="right" alt="coding" width="200" />
-    </td>
     <td>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=haroon-sajid&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-sajid" />
@@ -17,74 +13,80 @@
       </p>
     </td>
   </tr>
-</table>
 
-- 🔭 I’m currently working on **Exploratory Data Analysis**
+## About Me:
 
 - 🌱 I’m currently learning **Advance Google Data Analysis course from "Coursera"**
 
-- 👯 I’m looking to collaborate on **Real World Dataset Projects**
+- 🔭 I’m currently working on **Exploratory Data Analysis**
+
+- 👯 I’m looking to collaborate on **Real World Projects**
 
 - 🤝 I’m looking for help with **Cooperative Team**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haroon-sajid?tab=repositories](https://github.com/haroon-sajid?tab=repositories)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/haroon-sajid?tab=repositories)
 
-- 💬 Ask me about **Data Analysis, Cleaning, Visualization**
+- 📫 How to reach me: [**haroonsajid016@gmail.com**](mailto:haroonsajid016@gmail.com)
 
-- 📫 How to reach me **haroonsajid016@gmail.com**
 
-- ⚡ Fun fact **I enjoy working with data and showcasing it in various formats.**
+
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | SQL |
+|----------|----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="55" height="55"/></a> |
+
+
+  
+
+### Frameworks and Libraries:
+
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+
+
+### Tools For Data Manipulation & Visualisation:
+
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harooni016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harooni016" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haroon-sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon-sajid" height="30" width="40" /></a>
-<a href="https://kaggle.com/haroonsajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haroonsajid" height="30" width="40" /></a>
-<a href="https://fb.com/haroonsajid016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haroonsajid016" height="30" width="40" /></a>
-<a href="https://instagram.com/harooni016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harooni016" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/haroon sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haroon sajid" height="30" width="40" /></a>
-</p>
+<div style="text-align: left;">
+        <tr>
+            <td><a href="https://twitter.com/harooni016"><img src="https://img.shields.io/badge/X_Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
+            <td><a href="https://linkedin.com/in/haroon-sajid" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
+            <td><a href="https://kaggle.com/haroonsajid" target="blank"><img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a></td>
+            <td><a href="https://fb.com/haroonsajid016" target="blank"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" alt="Facebook"/></a></td>
+            <td><a href="https://www.youtube.com/c/haroon_sajid" target="blank"><img src="https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube" alt="YouTube"/></a></td>
+        </tr>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+
+
+
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/haroon-sajid">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haroon-sajid&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroon-sajid&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="haroon-sajid" />
+    </a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroon-sajid&show_icons=true&locale=en&layout=compact" alt="haroon-sajid" /></p>
+<p align="center">
+   <a href="https://github.com/haroon-sajid"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-sajid&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroon-sajid&show_icons=true&locale=en" alt="haroon-sajid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-sajid&" alt="haroon-sajid" /></p>
 
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
