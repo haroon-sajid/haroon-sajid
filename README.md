@@ -61,10 +61,9 @@
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: left;">
         <tr>
-            <td><a href="https://twitter.com/harooni016"><img src="https://img.shields.io/badge/X_Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
             <td><a href="https://linkedin.com/in/haroon-sajid" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
             <td><a href="https://kaggle.com/haroonsajid" target="blank"><img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a></td>
-            <td><a href="https://fb.com/haroonsajid016" target="blank"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" alt="Facebook"/></a></td>
+            <td><a href="https://twitter.com/harooni016"><img src="https://img.shields.io/badge/X_Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
             <td><a href="https://www.youtube.com/c/haroon_sajid" target="blank"><img src="https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube" alt="YouTube"/></a></td>
         </tr>
 </div>
