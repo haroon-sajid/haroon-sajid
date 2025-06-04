@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haroon Sajid</h1>
-<h3 align="center">I'm Data Analyst & Data Science Enthusiast from Pakistan</h3>
+<h3 align="center">I'm AI Developer & Data Enthusiast from Pakistan</h3>
 
   <tr>
     <td>
@@ -15,10 +15,7 @@
   </tr>
 
 ## About Me:
-
-- 🌱 I’m currently learning **Advance Google Data Analysis course from "Coursera"**
-
-- 🔭 I’m currently working on **Exploratory Data Analysis**
+- 🔭 I’m currently working on **Generative AI**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
@@ -34,9 +31,13 @@
 ## Languages and Tools 
 <div>
 
-| Python | SQL | HTML | Jupyter | MySQL | ChatGPT | Git | Plotly | Matplotlib |
-|--------|-----|------|---------|-------|---------|-----|--------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+| Python | HTML | Jupyter | LangChain | LLM | RAG | GitHub | FastAPI | Scikit-learn |
+|--------|------|---------|-----------|-----|-----|--------|---------|--------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/5dcdf8d6-4dc7-4709-babb-d200844bac87" title="LangChain" alt="LangChain" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/11377/11377104.png" title="LLM" alt="LLM" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/184/184422.png" title="RAG" alt="RAG" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/image.png" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> |
+
+</div>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
