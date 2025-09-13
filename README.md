@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haroon Sajid</h1>
-<h3 align="center">I'm AI Developer & Data Enthusiast from Pakistan</h3>
+<h3 align="center">AI Graduate and NLP Enthusiast from Pakistan, Passionate about NLP, Deep Learning, and Multilingual Applications.</h3>
 
   <tr>
     <td>
@@ -15,27 +15,22 @@
   </tr>
 
 ## About Me:
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 Currently exploring Generative AI and Natural Language Processing
 
-- 👯 I’m looking to collaborate on **Real World Projects**
+- 👯 Open to collaboration on AI-driven real-world projects
 
-- 🤝 I’m looking for help with **Cooperative Team**
+- 🤝 Interested in research partnerships and team-based projects
 
-- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/haroon-sajid?tab=repositories)
+- 👨‍💻 Check out my projects on GitHub
 
-- 📫 How to reach me: [**haroonsajid016@gmail.com**](mailto:haroonsajid016@gmail.com)
-
-
+- 📫 Reach me at haroonsajid924@gmail.com
 
 
-## Languages and Tools 
-<div>
 
-| Python | HTML | Jupyter | LangChain | LLM | RAG | GitHub | FastAPI | Scikit-learn |
-|--------|------|---------|-----------|-----|-----|--------|---------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/5dcdf8d6-4dc7-4709-babb-d200844bac87" title="LangChain" alt="LangChain" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/11377/11377104.png" title="LLM" alt="LLM" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/184/184422.png" title="RAG" alt="RAG" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/image.png" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> |
 
-</div>
+| Python | PyTorch | TensorFlow | Jupyter | Hugging Face | LangChain | LLM | RAG | FastAPI | Scikit-learn | GitHub|
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" alt="Hugging Face" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/5dcdf8d6-4dc7-4709-babb-d200844bac87" title="LangChain" alt="LangChain" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/11377/11377104.png" title="LLM" alt="LLM" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/184/184422.png" title="RAG" alt="RAG" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/image.png" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |
 
 
 
